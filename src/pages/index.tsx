@@ -1,5 +1,5 @@
 import { FC, useCallback } from 'react'
-import Discution from '../components/Discution'
+import Discution from '../components/Discussion'
 import { useEffect, useState } from 'react'
 import { DiscutionModel } from '../models/Discution'
 import { useAuth } from '../context/AuthContext'
